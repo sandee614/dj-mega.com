@@ -26,6 +26,12 @@
                 .close_icon {
                     display: block;
                 }
+                #our_services {
+                    transition: 1s;
+                    clear: both;
+                    overflow: hidden;
+                    margin-top: 19rem;
+                }
                 #top_header {
                     display: none;
                 }
